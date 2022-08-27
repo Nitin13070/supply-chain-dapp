@@ -33,4 +33,4 @@ IPFS is not used in this Project
 
 ## UML Diagrams
 
-![Activity Diagram] (images/AcitvityDiagram.png)
+![Activity Diagram](images/AcitvityDiagram.png)
