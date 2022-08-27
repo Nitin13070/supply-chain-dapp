@@ -32,4 +32,19 @@ IPFS is not used in this Project
 4. Solidity Version - 0.5.16
 
 ## UML Diagrams
+
+1. Activity Diagram
+
 ![Activity Diagram](images/ActivityDiagram.png)
+
+2. Sequence Diagram
+
+[Sequence Diagram](images/SequenceDiagram.png)
+
+3. State Diagram 
+
+[State Diagram](images/StateDiagram.png)
+
+4. Data Diagram
+
+[Data Diagram](images/DataDiagram.png)
