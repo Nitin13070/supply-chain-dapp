@@ -1,16 +1,13 @@
 # Supply chain & data auditing
 
-This repository containts an Ethereum DApp that demonstrates a Supply Chain flow between a Seller and Buyer. The user story is similar to any commonly used supply chain process. A Seller can add items to the inventory system stored in the blockchain. A Buyer can purchase such items from the inventory system. Additionally a Seller can mark an item as Shipped, and similarly a Buyer can mark an item as Received.
+## UI Screens
 
-The DApp User Interface when running should look like...
+1. Validate the authenticity of the product.
 
-![truffle test](images/ftc_product_overview.png)
+Enter UPC to fetch product details.
 
-![truffle test](images/ftc_farm_details.png)
+![Get Item Image](images/ValidateProduct.png)
 
-![truffle test](images/ftc_product_details.png)
-
-![truffle test](images/ftc_transaction_history.png)
 
 ## Contract Address
 
@@ -18,7 +15,7 @@ Rinkeby Contract - https://rinkeby.etherscan.io/address/0x59884F6Db35a33F60EC0c1
 
 ## Libraries Used
 
-1. truffle-hdwallet-provider - Used in triffle-config.js to migrate contract on rinkeby network.
+1. truffle-hdwallet-provider - Used in truffle-config.js to migrate contract on rinkeby network.
 
 ## IPFS
 
