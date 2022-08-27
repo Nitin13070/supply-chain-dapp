@@ -1,14 +1,5 @@
 # Supply chain & data auditing
 
-## UI Screens
-
-1. Validate the authenticity of the product.
-
-Enter UPC to fetch product details.
-
-![Get Item Image](images/ValidateProduct.png)
-
-
 ## Contract Address
 
 Rinkeby Contract - https://rinkeby.etherscan.io/address/0x59884F6Db35a33F60EC0c1DC207a0C535F48eb68
@@ -36,12 +27,32 @@ IPFS is not used in this Project
 
 2. Sequence Diagram
 
-[Sequence Diagram](images/SequenceDiagram.png)
+![Sequence Diagram](images/SequenceDiagram.png)
 
 3. State Diagram 
 
-[State Diagram](images/StateDiagram.png)
+![State Diagram](images/StateDiagram.png)
 
 4. Data Diagram
 
-[Data Diagram](images/DataDiagram.png)
+![Data Diagram](images/DataDiagram.png)
+
+## UI Screens
+
+1. Validate the authenticity of the product.
+
+Enter UPC to fetch product details.
+
+![Get Item Image](images/ValidateProduct.png)
+
+2. Create product item and submit for sale.
+
+Enter UPC to create product and move to other states.
+
+![Get Item Image](images/CreateProduct.png)
+
+3. Create product item and submit for sale.
+
+Enter UPC to buy product and move to other states.
+
+![Get Item Image](images/BuyProduct.png)
